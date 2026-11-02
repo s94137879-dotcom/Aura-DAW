@@ -1,0 +1,6 @@
+{
+  "name": "AuraDAW",
+  "description": "Professional music production DAW with multi-track editing, Harmor additive synth, Newtone vocal pitch correction, sidechain compression, slide piano roll, and real-time cloud collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
